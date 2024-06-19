@@ -63,3 +63,9 @@
 // capital letter should be replaced by next capital letter
 
 // SaNesI
+
+
+
+// q6:  Generate a random password of length 8
+
+console.log(Math.random())
